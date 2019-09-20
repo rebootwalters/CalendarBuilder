@@ -10,7 +10,7 @@ namespace CalendarBuilder
     {
         static void Main(string[] args)
         {
-            DataBuilder db = new DataBuilder();
+            DataBuilder db = new DataBuilder(); 
             db.StartCount = 2;
             db.EndCount = 32;
             
